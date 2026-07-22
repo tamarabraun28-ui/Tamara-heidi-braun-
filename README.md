@@ -18,4 +18,4 @@ Die Kennzeichnung der Daten erfolgt gemäß den festgelegten Richtlinien des Pro
 
 ### Lizenz
 
-Dieses Projekt steht unter einer offenen Lizenz. Weitere Informationen finden Sie in der Lizenzdatei.
+Dieses Projekt steht unter einer offenen Lizenz. Weitere Informationen finden Sie in der Datei [LICENSE](LICENSE).
