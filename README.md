@@ -14,7 +14,7 @@ Dieses Repository enthält Daten und Kennzeichnungen für das Projekt Tamara-Hei
 
 ### Kennzeichnung
 
-Die Kennzeichnung der Daten erfolgt gemäß den festgelegten Richtlinien des Projekts.
+Die Kennzeichnung der Daten erfolgt gemäß den festgelegten Richtlinien des Projekts. Detaillierte Informationen zur Kennzeichnung und Identifikation der Inhalte sind in der Datei [KENNZEICHNUNG.md](KENNZEICHNUNG.md) dokumentiert.
 
 ### Lizenz
 
