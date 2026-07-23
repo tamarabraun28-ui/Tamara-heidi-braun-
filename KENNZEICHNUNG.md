@@ -16,7 +16,7 @@ Dieses Dokument beschreibt die Kennzeichnung und Identifikation der Daten und In
 Alle Daten und Inhalte in diesem Repository sind wie folgt gekennzeichnet:
 
 - **Ersteller:** Tamara Heidi Braun
-- **Erstellungsdatum:** 2024
+- **Erstellungsdatum:** Januar 2024
 - **Lizenz:** Offene Lizenz (siehe [LICENSE](LICENSE))
 - **Sprache:** Deutsch
 
@@ -28,4 +28,4 @@ Die Inhalte dieses Repositories dürfen gemäß den Bedingungen der beiliegenden
 
 | Version | Datum      | Änderung             |
 |---------|------------|----------------------|
-| 1.0     | 2024       | Erstveröffentlichung |
+| 1.0     | Januar 2024 | Erstveröffentlichung |
